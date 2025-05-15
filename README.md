@@ -1,6 +1,6 @@
 # Animation mini project
 
-**timer with animation **  
+Timer with animation
 
 just html and css
 
